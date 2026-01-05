@@ -1,4 +1,4 @@
-Nextdomain v3.1211
+Nextdomain v3.1211 Part 2
 Nextdomain is a powerful GUI-based domain scanner built with Python and Tkinter. It allows users to scan websites, fetch frontend and backend code, analyze headers, and much more. This tool is designed for developers, security researchers, and anyone interested in exploring website internals.
 
 Features
@@ -49,5 +49,11 @@ Use the settings menu to customize theme and preferences.
 
 Support
 For help, feature requests, or bug reports, please visit our website or contact us at:
-web.nxtinstant.in/contact
+web.nxtinstant.in
+
+TOS and removals: Follow our terms and service and gnu's head over to https://web.nxtinstant.in . To request removals on future versions of Nextdomain, you can contact us we will definetly think to remove the url. Requested removals for the url will only affect on future versions.
+
+Disclaimer:
+This is just a exe file that has no packeaged modules like favicon and all. For full installation and previous versions head over to https://web.nxtinstant.in/nextdomain
+
 
